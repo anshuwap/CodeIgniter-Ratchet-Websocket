@@ -101,5 +101,5 @@ define('ASSETS',                  	'assets/');
 /** WEBSOCKETS BROADCAST TYPES **/
 
 define("POST",					"post");
-define("BROADCAST_URL",			"192.168.0.6");
-define("BROADCAST_PORT",		"2000");
+define("BROADCAST_URL",			"91.134.244.98");
+define("BROADCAST_PORT",		"3004");
